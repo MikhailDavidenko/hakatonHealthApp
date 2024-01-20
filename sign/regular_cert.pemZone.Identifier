@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://developer.auroraos.ru/doc/software_development/guides/package_signing
+HostUrl=https://developer.auroraos.ru/static/regular_cert.pem
